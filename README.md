@@ -1,0 +1,1 @@
+Small project I made to practice / learn Terraform
